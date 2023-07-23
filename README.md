@@ -1,1 +1,1 @@
-[[/catstare.png|Sunny, staring at you intensely]]
+![Sunny, staring at you intensely](/catstare.png)
